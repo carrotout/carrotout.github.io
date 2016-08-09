@@ -1,6 +1,6 @@
 # carrotout.github.io
 
-CarrotOut is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat)
+CarrotOut.github.io is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat)
 
 ## Copyright and License
 
